@@ -6,7 +6,7 @@ A web app that tracks crime happening in city in real time. Developed during hac
 
 Slides: [Link](slides.pdf)
 
-###Built With
+### Built With
 
 * [Python](https://www.python.org/)
 * [Google Maps API](https://developers.google.com/maps/)
